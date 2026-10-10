@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+torch
+tqdm
+tensorboard
+scikit-learn
